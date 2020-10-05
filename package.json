@@ -1,0 +1,23 @@
+{
+	"name": "datascoreai-sdk",
+	"version": "1.0.0",
+	"description": "Makes secure requests to datascore.ai",
+	"main": "lib/datascoreai.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/ewoodlief/datascoreai-sdk-js.git"
+	},
+	"keywords": ["ai", "artificial", "intelligence", "ml", "machine", "learning"],
+	"author": "datascore.ai",
+	"license": "Apache-2.0",
+	"bugs": {
+		"url": "https://github.com/ewoodlief/datascoreai-sdk-js/issues"
+	},
+	"homepage": "https://github.com/ewoodlief/datascoreai-sdk-js#readme",
+	"dependencies": {
+		"aws4": "^1.10.1"
+	}
+}
