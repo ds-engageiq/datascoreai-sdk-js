@@ -1,6 +1,6 @@
 {
 	"name": "datascoreai-sdk",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Makes secure requests to datascore.ai",
 	"main": "lib/datascoreai.js",
 	"scripts": {
